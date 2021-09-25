@@ -1,178 +1,178 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E01
-https://assistonlineapi.online/make/check/?list=8531f31acb1593a6
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E02
-https://assistonlineapi.online/make/check/?list=49c3a0cb70d0a165
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E03
-https://assistonlineapi.online/make/check/?list=5ffdc5e566802001
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E04
-https://assistonlineapi.online/make/check/?list=3d5cf42d447bd684
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E05
-https://assistonlineapi.online/make/check/?list=b83730d6ab2d8bbf
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E06
-https://assistonlineapi.online/make/check/?list=4c44f610784c7952
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E07
-https://assistonlineapi.online/make/check/?list=997bbbff069a3081
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E08
-https://assistonlineapi.online/make/check/?list=a45e5eca212cb116
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E09
-https://assistonlineapi.online/make/check/?list=7f6df8bbe4fe3881
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E10
-https://assistonlineapi.online/make/check/?list=327da3e68b3223f1
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E11
-https://assistonlineapi.online/make/check/?list=5830220dbcc6841d
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E12
-https://assistonlineapi.online/make/check/?list=ed21791112e4f3bc
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E13
-https://assistonlineapi.online/make/check/?list=92319e403f0a5b17
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E14
-https://assistonlineapi.online/make/check/?list=53a92283f0dbfb7f
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E15
-https://assistonlineapi.online/make/check/?list=d9a48aaaadfac720
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E16
-https://assistonlineapi.online/make/check/?list=b155e3a5cf65326e
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E17
-https://assistonlineapi.online/make/check/?list=10642f7c340767a6
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E18
-https://assistonlineapi.online/make/check/?list=805968319d16215e
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E19
-https://assistonlineapi.online/make/check/?list=54beb471d44b6c7f
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E20
-https://assistonlineapi.online/make/check/?list=4f9546b3b081e669
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E21
-https://assistonlineapi.online/make/check/?list=602e1a0a500c5708
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",1T-E22
-https://assistonlineapi.online/make/check/?list=c658f740da737782
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E01
-https://assistonlineapi.online/make/check/?list=905f9cd133073346
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E02
-https://assistonlineapi.online/make/check/?list=d48bdf9d8a4472c4
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E03
-https://assistonlineapi.online/make/check/?list=24d118e92da3b380
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E04
-https://assistonlineapi.online/make/check/?list=403639487c0807ec
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E05
-https://assistonlineapi.online/make/check/?list=ebc5988a7d69e0e0
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E06
-https://assistonlineapi.online/make/check/?list=f5db619fae117e54
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E07
-https://assistonlineapi.online/make/check/?list=594a91d362908277
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E08
-https://assistonlineapi.online/make/check/?list=233328b11ad5b3c6
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E09
-https://assistonlineapi.online/make/check/?list=0d495026a048d671
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E10
-https://assistonlineapi.online/make/check/?list=35c66c44f85031f0
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E11
-https://assistonlineapi.online/make/check/?list=f7c2b431885547aa
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E12
-https://assistonlineapi.online/make/check/?list=6a9c5b5ea71e3481
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E13
-https://assistonlineapi.online/make/check/?list=857d6c71c7e8cc62
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E14
-https://assistonlineapi.online/make/check/?list=55f50b71131c695b
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E15
-https://assistonlineapi.online/make/check/?list=244e71c831060a94
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E16
-https://assistonlineapi.online/make/check/?list=096e2def98b15492
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E17
-https://assistonlineapi.online/make/check/?list=c9c4a26f7ba249c8
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E18
-https://assistonlineapi.online/make/check/?list=973b4dcd013f439b
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E19
-https://assistonlineapi.online/make/check/?list=b4aa6336d8d0f0cb
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E20
-https://assistonlineapi.online/make/check/?list=b4ca4c3aa93f1357
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E21
-https://assistonlineapi.online/make/check/?list=588d7585719c5a43
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",2T-E22
-https://assistonlineapi.online/make/check/?list=92870d06935365e8
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",3T-E01
-https://assistonlineapi.online/make/check/?list=b3e976691dbb49c2
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",3T-E02
-https://assistonlineapi.online/make/check/?list=3a47ff3c3fefdb40
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",3T-E03
-https://assistonlineapi.online/make/check/?list=c3f974bfd31dba88
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",3T-E04
-https://assistonlineapi.online/make/check/?list=ebe849ae6ba783d
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",3T-E05
-https://assistonlineapi.online/make/check/?list=b64619e8cb3ae7cf
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",3T-E06
-https://assistonlineapi.online/make/check/?list=41d7d2ee74a9059
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",3T-E07
-https://assistonlineapi.online/make/check/?list=72322765380f798f
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",3T-E08
-https://assistonlineapi.online/make/check/?list=9107f92958b5674e
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",3T-E09
-https://assistonlineapi.online/make/check/?list=da37592d9b359ee6
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",3T-E10
-https://assistonlineapi.online/make/check/?list=aca0bbe1406715d9
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",3T-E11
-https://assistonlineapi.online/make/check/?list=f45b86bcb9e9ed73
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",3T-E12
-https://assistonlineapi.online/make/check/?list=f5b6b1e69be7f237
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",3T-E13
-https://assistonlineapi.online/make/check/?list=a7ca8307be9fafdc
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E01
-https://assistonlineapi.online/make/check/?list=0037360fb4c33a14
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E02
-https://assistonlineapi.online/make/check/?list=2ecd636666725292
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E03
-https://assistonlineapi.online/make/check/?list=53413b2901cb0f13
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E04
-https://assistonlineapi.online/make/check/?list=49d95d005bd7f9d0
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E05
-https://assistonlineapi.online/make/check/?list=9e04cab6ee3128a6
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E06
-https://assistonlineapi.online/make/check/?list=98f76fe4af748fd4
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E07
-https://assistonlineapi.online/make/check/?list=269387f413d368c3
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E08
-https://assistonlineapi.online/make/check/?list=53f668473f4f7ef3
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E09
-https://assistonlineapi.online/make/check/?list=3dd3ffbc3cd136bb
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E10
-https://assistonlineapi.online/make/check/?list=2f5c46e771c5f28f
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E11
-https://assistonlineapi.online/make/check/?list=bc0bf187eb347adf
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E12
-https://assistonlineapi.online/make/check/?list=9e29e5b7d1ac39e8
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E13
-https://assistonlineapi.online/make/check/?list=690b67d1fb00bc99
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E14
-https://assistonlineapi.online/make/check/?list=c9044305d6dd7490
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E15
-https://assistonlineapi.online/make/check/?list=0ba8503f9329cede
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E16
-https://assistonlineapi.online/make/check/?list=d8c241db2e7448a4
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E17
-https://assistonlineapi.online/make/check/?list=64bee4e316197573
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E18
-https://assistonlineapi.online/make/check/?list=20caedff87639208
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E19
-https://assistonlineapi.online/make/check/?list=ea990359fbca0dcb
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E20
-https://assistonlineapi.online/make/check/?list=b04be992102e86be
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E21
-https://assistonlineapi.online/make/check/?list=602d076b0296ce99
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",4T-E22
-https://assistonlineapi.online/make/check/?list=6b2e6fe387f612a7
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",5T-E01
-https://assistonlineapi.online/make/check/?list=f27801e17d853828
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",5T-E02
-https://assistonlineapi.online/make/check/?list=edf7b84780a1e49a
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",5T-E03
-https://assistonlineapi.online/make/check/?list=ebda430deefc4983
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",5T-E04
-https://assistonlineapi.online/make/check/?list=3a5770a07e873904
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",5T-E05
-https://assistonlineapi.online/make/check/?list=0575730e59174c87
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",5T-E06
-https://assistonlineapi.online/make/check/?list=098a3730a78fac9e
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",5T-E07
-https://assistonlineapi.online/make/check/?list=18b53442de68ab80
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",5T-E08
-https://assistonlineapi.online/make/check/?list=d3c103fea445a3d1
-#EXTINF:0 tvg-id="ext" group-title="Prison Break: Em Busca da Verdade",5T-E09
-https://assistonlineapi.online/make/check/?list=a64b60c020326dbf
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E01 Todo Mundo Odeia o Chris
+https://assistonlineapi.online/make/check/?list=772f3dd743192e9c
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E02 Todo mundo odeia Keisha
+https://assistonlineapi.online/make/check/?list=4c1ef80f8ac980ce
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E03 Todo mundo odeia Basquetebol
+https://assistonlineapi.online/make/check/?list=b5ad5d9475bca87b
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E04 Todo mundo odeia linguica
+https://assistonlineapi.online/make/check/?list=68d5feeffa13e985
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E05 Todo mundo odeia Mikao
+https://assistonlineapi.online/make/check/?list=14a4aefb7c78532c
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E06 Todo mundo odeia Halloween
+https://assistonlineapi.online/make/check/?list=3e4d41f3ca44e817
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E07 Todo mundo odeia a baba
+https://assistonlineapi.online/make/check/?list=63c52029425c05da
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E08 Todo mundo odeia a lavanderia
+https://assistonlineapi.online/make/check/?list=5aedc7344967293a
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E09 Todo mundo odeia comida de ticket
+https://assistonlineapi.online/make/check/?list=3bd73a401a67bcb5
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E10 Todo mundo odeia Greg
+https://assistonlineapi.online/make/check/?list=15e688c39666896d
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E11 Todo mundo odeia Natal
+https://assistonlineapi.online/make/check/?list=31edd0216ac13518
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E12 Todo mundo odeia emprego temporario
+https://assistonlineapi.online/make/check/?list=e4bcf202b91ef264
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E13 Todo mundo odeia tirar foto
+https://assistonlineapi.online/make/check/?list=265160d769a2ceb7
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E14 Todo mundo odeia Dia dos Namorados
+https://assistonlineapi.online/make/check/?list=80e7b9a7d2549bcd
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E15 Todo mundo odeia loteria
+https://assistonlineapi.online/make/check/?list=220a892191c65b65
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E16 Todo mundo odeia gota
+https://assistonlineapi.online/make/check/?list=e873a92b95800e96
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E17 Todo mundo odeia Funeral
+https://assistonlineapi.online/make/check/?list=1e790aaaf944b407
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E18 Todo mundo odeia Corleone
+https://assistonlineapi.online/make/check/?list=31ad3a0bc7796a7e
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E19 Todo mundo odeia Drew
+https://assistonlineapi.online/make/check/?list=e0c2e8c47fa5c4ce
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E20 Todo mundo odeia Playboy
+https://assistonlineapi.online/make/check/?list=d7412a0aef7cc1a4
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E21 Todo mundo odeia a prisao
+https://assistonlineapi.online/make/check/?list=b5e5a733d2faf9e8
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",1T-E22 Todo mundo odeia o Dia dos Pais
+https://assistonlineapi.online/make/check/?list=e4e0ee030a75d350
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E01 Todo mundo odeia rejeicao
+https://assistonlineapi.online/make/check/?list=df016ec564387091
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E02 Todo mundo odeia o presidente do gremio
+https://assistonlineapi.online/make/check/?list=62592edbe93d30a3
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E03 Todo mundo odeia eleicoes
+https://assistonlineapi.online/make/check/?list=fb997c493e79e755
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E04 Todo mundo odeia um mentiroso
+https://assistonlineapi.online/make/check/?list=fcbcc1dd0ca66cc7
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E05 Todo mundo odeia Malvo
+https://assistonlineapi.online/make/check/?list=2c3e38628c3d5061
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E06 Todo mundo odeia sistema de parceiragem
+https://assistonlineapi.online/make/check/?list=976c1e5326839c52
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E07 Todo mundo odeia promessas
+https://assistonlineapi.online/make/check/?list=2c62f9c53519234d
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E08 Todo mundo odeia feriado
+https://assistonlineapi.online/make/check/?list=d0278ac44a5e048f
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E09 Todo mundo odeia supersticao
+https://assistonlineapi.online/make/check/?list=c66865eee00cd9fb
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E10 Todo mundo odeia Papai Noel
+https://assistonlineapi.online/make/check/?list=203395bed9572bb0
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E11 Todo mundo odeia ovos
+https://assistonlineapi.online/make/check/?list=cdcc980c912d5d46
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E12 Todo mundo odeia os inspetores
+https://assistonlineapi.online/make/check/?list=7a82ed6ddeff9de9
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E13 Todo mundo odeia o inverno
+https://assistonlineapi.online/make/check/?list=d99fb3351b35d294
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E14 Todo mundo odeia o substituto
+https://assistonlineapi.online/make/check/?list=21afe12763ab8044
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E15 Todo mundo odeia matar aula
+https://assistonlineapi.online/make/check/?list=a56ef3516eadca36
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E16 Todo mundo odeia roubar correntes
+https://assistonlineapi.online/make/check/?list=7740989df603ccbb
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E17 Todo mundo odeia Djs
+https://assistonlineapi.online/make/check/?list=368d01287fd503c8
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E18 Todo mundo odeia beisebol
+https://assistonlineapi.online/make/check/?list=643f023a030b957d
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E19 Todo mundo odeia apostar
+https://assistonlineapi.online/make/check/?list=bd66eeed0c73b56e
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E20 Todo mundo odeia piadas sujas
+https://assistonlineapi.online/make/check/?list=8a375c620e37e4a4
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E21 Todo mundo odeia matematica
+https://assistonlineapi.online/make/check/?list=a4316c659ea8370f
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",2T-E22 Todo mundo odeia o ultimo dia
+https://assistonlineapi.online/make/check/?list=abc8f8a9a0e0cbac
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E01 Todo mundo odeia o orientador
+https://assistonlineapi.online/make/check/?list=79cf7c4270fd3269
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E02 Todo mundo odeia Caruso
+https://assistonlineapi.online/make/check/?list=ebec492c1d1db94e
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E03 Todo mundo odeia Dirigir
+https://assistonlineapi.online/make/check/?list=69d04c682c2fc0b0
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E04 Todo mundo odeia o Cachorro
+https://assistonlineapi.online/make/check/?list=c58a214b2141bd2
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E05 Todo mundo odeia Casa de Solteiro
+https://assistonlineapi.online/make/check/?list=b111edf542c3b75e
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E06 Todo mundo odeia Bed-Stuy
+https://assistonlineapi.online/make/check/?list=c736dc53327dc261
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E07 Todo mundo odeia hospedes
+https://assistonlineapi.online/make/check/?list=b8460fb83d26fe73
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E08 Todo mundo odeia o novato
+https://assistonlineapi.online/make/check/?list=73d79174e56a2897
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E09 Todo mundo odeia Kwanzaa
+https://assistonlineapi.online/make/check/?list=acafc2c1a498db8c
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E10 Todo mundo odeia salario minimo
+https://assistonlineapi.online/make/check/?list=17490e2d33745a53
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E11 Todo mundo odeia a Rodoviaria
+https://assistonlineapi.online/make/check/?list=b2f67ddf0d4c4c8a
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E12 Todo mundo odeia Bad Boys
+https://assistonlineapi.online/make/check/?list=4da8312140cbc5c1
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E13 Todo mundo odeia o Primeiro Beijo
+https://assistonlineapi.online/make/check/?list=f25b0f461f40bcc3
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E14 Todo mundo odeia a Pascoa
+https://assistonlineapi.online/make/check/?list=d67a7966e397a9ca
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E15 Todo mundo odeia Gretzky
+https://assistonlineapi.online/make/check/?list=b7d24586f9722778
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E16 Todo mundo odeia o DFN
+https://assistonlineapi.online/make/check/?list=c808abdc45ebf730
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E17 Todo mundo odeia Ex-presidiario
+https://assistonlineapi.online/make/check/?list=938314ba2c048126
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E18 Todo mundo odeia o Dia da Terra
+https://assistonlineapi.online/make/check/?list=ccc9c222ede327a0
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E19 Todo mundo odeia ser Descolado
+https://assistonlineapi.online/make/check/?list=e7d75211e41a9c21
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E20 Todo mundo odeia o Baile da Nona Serie
+https://assistonlineapi.online/make/check/?list=88062d8f7bdfc281
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E21 Todo mundo odeia o Dia das Maes
+https://assistonlineapi.online/make/check/?list=898673e348a37649
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",3T-E22 Todo mundo odeia Odeia Formatura
+https://assistonlineapi.online/make/check/?list=d24239384cc43d4e
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E01 Todo mundo odeia Tattaglia
+https://assistonlineapi.online/make/check/?list=cc7ae8964e494cd7
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E02 Todo mundo odeia Bolo
+https://assistonlineapi.online/make/check/?list=b2e148d6b8781f33
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E03 Todo mundo odeia Baile
+https://assistonlineapi.online/make/check/?list=c7af63cab178edfd
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E04 Todo mundo odeia Professora de Literatura
+https://assistonlineapi.online/make/check/?list=5d4540f07583ceac
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E05 Todo mundo odeia o Meu Brother
+https://assistonlineapi.online/make/check/?list=7b836e86ec4f7a10
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E06 Todo mundo odeia o Doc
+https://assistonlineapi.online/make/check/?list=1c00ce26b5e7bab0
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E07 Todo mundo odeia X-9
+https://assistonlineapi.online/make/check/?list=c5b5f29736eb4801
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E08 Todo mundo odeia Garotas Altas e Magras
+https://assistonlineapi.online/make/check/?list=728ec5a3f8faefe3
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E09 Todo mundo odeia o James
+https://assistonlineapi.online/make/check/?list=2f2299c525de122f
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E10 Todo mundo odeia Vespera do Ano Novo
+https://assistonlineapi.online/make/check/?list=9475f41be63ba3d3
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E11 Todo mundo odeia o Sr. Levine
+https://assistonlineapi.online/make/check/?list=f8d8044af8567384
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E12 Todo mundo odeia Lutadores Fracassados
+https://assistonlineapi.online/make/check/?list=c4f7bbdf0182c162
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E13 Todo mundo odeia Identidades Falsas
+https://assistonlineapi.online/make/check/?list=5ad90453bff2f70f
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E14 Todo mundo odeia Exames para Faculdade
+https://assistonlineapi.online/make/check/?list=f4a88167d204a1be
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E15 Todo mundo odeia Boxe
+https://assistonlineapi.online/make/check/?list=ef71e3971f79e9fa
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E16 Todo mundo odeia Lasanha
+https://assistonlineapi.online/make/check/?list=be272b9bd4d2ae06
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E17 Todo mundo odeia Semana da Primavera
+https://assistonlineapi.online/make/check/?list=de1bdabe62bd5f71
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E18 Todo mundo odeia Carro
+https://assistonlineapi.online/make/check/?list=33337b3765de7888
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E19 Todo mundo odeia Lavar a Louca
+https://assistonlineapi.online/make/check/?list=d0825535055279f3
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E20 Todo mundo odeia Tasha
+https://assistonlineapi.online/make/check/?list=d61d068e9dcc14df
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E21 Todo mundo odeia Ameacas de Bomba
+https://assistonlineapi.online/make/check/?list=2b410c78e4723d24
+#EXTINF:0 tvg-id="ext" group-title="Todo Mundo Odeia o Chris",4T-E22 Todo mundo odeia o Supletivo
+https://assistonlineapi.online/make/check/?list=dbbbfa317017052c
